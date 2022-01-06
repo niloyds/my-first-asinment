@@ -67,7 +67,6 @@ body{
 /* ======================
     my-mission-section
 ====================== */
-
 .heading h2{
     font-size: 45px;
     font-weight: 800;
@@ -110,4 +109,31 @@ body{
 .Wordpress{
     border-radius: 15px;
     background-color: #FFF4D6;
+}
+
+
+
+/* ======================
+    develop-section
+====================== */
+.develop-section{
+    margin: 120px 0;
+}
+.develop-without{
+    display: flex;
+    justify-content: space-between;
+}
+.develop-without-image{
+    width: 50%;
+}
+.develop-without-image img{
+    width: 100%;
+    border-radius: 30px;
+}
+.develop-without-text{
+    width: 45%;
+}
+.develop-without-text h2{
+    font-size: 45px;
+    margin-bottom: -10px;
 }
