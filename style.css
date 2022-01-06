@@ -12,6 +12,13 @@ body{
     width: 80%;
     margin: 0 auto;
 }
+
+/* ======================
+    top-banner-sec
+====================== */
+.top-banner-sec{
+    margin-bottom: 120px;
+}
 .portpolio-banner{
     display: flex;
     margin-top: 10%;
@@ -54,4 +61,19 @@ body{
 }
 .portpolio-banner-text span{
     color: #636e72;
+}
+
+
+/* ======================
+    my-mission-section
+====================== */
+
+.heading h2{
+    font-size: 45px;
+    font-weight: 800;
+    text-align: center;
+    text-transform: capitalize;
+}
+.heading span{
+    color: #00b894;
 }
