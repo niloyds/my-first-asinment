@@ -137,3 +137,85 @@ body{
     font-size: 45px;
     margin-bottom: -10px;
 }
+
+
+/* ======================
+golbal-community-section
+====================== */
+.golbal-community{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.know-golbal-community{
+    display: flex;
+    justify-content: space-between;
+}
+.golbal-community-text{
+    width: 50%;
+}
+.golbal-community-text h2{
+    font-size: 45px;
+    margin-top: -10px;
+}
+.golbal-community-text p{
+    margin-bottom: 30px;
+}
+.golbal-community-image{
+    width: 40%;
+}
+.golbal-community-image img{
+    width: 100%;
+    border-radius: 30px;
+}
+
+
+/* ======================
+    blogs-section
+====================== */
+.blogs-section{
+    margin-bottom: 100px;
+}
+.my-blog-contant{
+    display: flex;
+    justify-content: space-between;
+}
+.blog-item{
+    width: 30%;
+    box-shadow: 0 .5rem 16px rgba(0,0,0,.1);
+    border: 10px solid #fff;
+}
+.blog-item img{
+    width: 100%;
+}
+.blog-item h3{
+    text-transform: capitalize;
+    color: #27AE60;
+}
+.blog-item p{
+    margin-bottom: 30px;
+}
+.blog-link a{
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+
+/* ======================
+    footer-section
+====================== */
+.footer-section{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 10px 0;
+}
+.footer-section h2{
+    font-size: 45px;
+    color: #fff;
+}
+.footer-section span{
+    color: #FF5959;
+}
+.footer-section p{
+    color: #fff;
+}
